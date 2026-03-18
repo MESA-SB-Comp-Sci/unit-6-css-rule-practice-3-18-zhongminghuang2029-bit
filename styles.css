@@ -1,0 +1,18 @@
+main {
+    background-color: blueviolet;
+}
+h1 {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+p {
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+body {
+    background-image: url(/assets/traffic.jpg);
+}
+
